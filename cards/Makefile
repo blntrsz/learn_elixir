@@ -3,3 +3,6 @@ lint:
 
 run:
 	iex -S mix
+
+docs:
+	mix docs
